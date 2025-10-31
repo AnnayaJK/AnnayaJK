@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Jyoti!
 
-<!--
-**AnnayaJK/AnnayaJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an MCA student (2025–2027) at **Chandigarh University**, passionate about technology and software development.  
+💻 I love learning new programming concepts and building creative projects that solve real-world problems.  
+🌱 Currently exploring **Web Development** and improving my coding skills in **C, C++, Java, Python, HTML, and CSS**.  
+🚀 Always open to collaboration, learning, and innovation!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** C, C++, Java, Python  
+- **Web:** HTML, CSS  
+- **Tools:** VS Code, Git, GitHub  
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](#)
+- [GitHub](#)
+- 📧 kumarijyoti1303@gmail.com
