@@ -1,18 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%2C%20I'm%20Jyoti!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Jyoti;MCA+Student;Web+Developer;Welcome+to+my+Profile!" alt="Name Banner" />
+</h2>
+
 <p align="center">
   <a href="https://github.com/AnnayaJK">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Chandigarh+University;Web+Developer+in+the+Making;Passionate+about+Coding+%26+Innovation;Always+Learning+Something+New!;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnnayaJK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AnnayaJK?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Lives-India-success?style=flat" />
-</p>
-
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
