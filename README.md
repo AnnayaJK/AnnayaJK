@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Jyoti!
+![Snake animation](https://raw.githubusercontent.com/AnnayaJK/AnnayaJK/output/github-snake.svg)
 
 🎓 I'm an MCA student (2025–2027) at **Chandigarh University**, passionate about technology and software development.  
 💻 I love learning new programming concepts and building creative projects that solve real-world problems.  
