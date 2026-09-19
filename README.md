@@ -9,8 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Chandigarh+University;Web+Developer+in+the+Making;Passionate+about+Coding+%26+Innovation;Always+Learning+Something+New!;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
----
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
