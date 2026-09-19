@@ -1,14 +1,11 @@
-<!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%2C%20I'm%20Jyoti!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/AnnayaJK">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Chandigarh+University;Web+Developer+in+the+Making;Passionate+about+Coding+%26+Innovation;Always+Learning+Something+New!;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Chandigarh+University;Web+Developer+in+the+Making;Passionate+about+Coding+%26+Innovation;Always+Learning+Something+New!" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Profile Views + Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnnayaJK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AnnayaJK?label=Followers&style=flat&color=0e75b6" alt="Followers" />
@@ -18,7 +15,8 @@
 
 ---
 
-<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnayaJK/AnnayaJK/output/github-snake-dark.svg">
@@ -29,7 +27,6 @@
 
 ---
 
-<!-- About Me -->
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
@@ -42,7 +39,6 @@
 
 ---
 
-<!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
@@ -62,39 +58,6 @@
 
 ---
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnnayaJK&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnnayaJK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnayaJK&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnayaJK&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="200" />
-</p>
-
----
-
-<!-- Activity Graph -->
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnayaJK&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-<!-- Connect with Me -->
 <h2 align="center">📫 Connect with Me</h2>
 
 <p align="center">
@@ -111,14 +74,8 @@
 
 ---
 
-<!-- Quote -->
-<h2 align="center">💭 Quote of the Day</h2>
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <i>⭐️ From <a href="https://github.com/AnnayaJK">AnnayaJK</a> — Thanks for visiting! ✨</i>
 </p>
 
----
-
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
