@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/AnnayaJK">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Chandigarh+University;Web+Developer+in+the+Making;Passionate+about+Coding+%26+Innovation;Always+Learning+Something+New!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Chandigarh+University;Web+Developer+in+the+Making;Passionate+about+Coding+%26+Innovation;Always+Learning+Something+New!;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,6 +54,43 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnnayaJK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnayaJK&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnayaJK&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnayaJK&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnnayaJK&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+---
+
+<h2 align="center">💭 Quote of the Day</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
